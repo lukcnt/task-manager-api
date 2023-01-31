@@ -1,0 +1,7 @@
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.csproj.AssemblyReference.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.AssemblyInfoInputs.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.AssemblyInfo.cs
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.csproj.CoreCompileInputs.cache
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas-cantoni\Desktop\GitHub\task-manager-api\obj\Debug\net7.0\task-manager-api.MvcApplicationPartsAssemblyInfo.cache
