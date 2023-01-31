@@ -8,9 +8,9 @@ namespace task_manager_api.Models
     public class Task
     {
         public int Id { get; set; }
-        public string Titulo { get; set; }
-        public string Descricao { get; set; }
-        public DateTime Data { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public DateTime Date { get; set; }
         public EnumStatusTask Status { get; set; }
     }
 }
