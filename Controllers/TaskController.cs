@@ -58,7 +58,7 @@ namespace task_manager_api.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Models.Task task)
+        public IActionResult Create(TaskAt task)
         {
             if (task.Date == DateTime.MinValue)
                 return BadRequest(new { Error = "The date of the task cannot be empty" });
@@ -69,7 +69,7 @@ namespace task_manager_api.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Update(int id, Models.Task task)
+        public IActionResult Update(int id, TaskAt task)
         {
             var taskDatabase = _context.Tasks.Find(id);
 

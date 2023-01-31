@@ -14,6 +14,6 @@ namespace task_manager_api.Context
 
         }
 
-        public DbSet<Task> Tasks { get; set; }
+        public DbSet<TaskAt> Tasks { get; set; }
     }
 }
